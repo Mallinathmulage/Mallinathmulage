@@ -1,0 +1,11 @@
+public class EmployeeDetails {
+    public static void main(String[] args) {
+        int empid = 5001;
+        String name = "Alice Smith";
+        double salary = 75000.50;
+        
+        System.out.println("Employee ID: " + empid);
+        System.out.println("Employee Name: " + name);
+        System.out.println("Employee Salary: " + salary);
+    }
+}
